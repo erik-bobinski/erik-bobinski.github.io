@@ -13,7 +13,7 @@ const Navbar = () => {
         <a href="#contact">Contact</a>
       </div>
       <div className="navbar-button">
-        <a href="https://drive.google.com/file/d/1mz7SG7xIO7Thm0rQXgfEYqj8D5S0eZiM/view?usp=sharing"
+        <a href="https://drive.google.com/file/d/1wu1B5orfid_TDc-uvuURZer4EDqXY6lS/view?usp=sharing"
         target="_blank" rel="noopener noreferrer">
         <>View Resume</>
         </a>
